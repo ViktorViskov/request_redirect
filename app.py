@@ -12,7 +12,7 @@ server_ip = '0.0.0.0'
 # server port for listening
 server_port = 5000
 # debug mode
-enable_debug_mode = True
+enable_debug_mode = False
 
 # 
 # Creating server application
